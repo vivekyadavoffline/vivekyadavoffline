@@ -28,7 +28,7 @@ HTML5, CSS3 (Flexbox, Grid), Responsive Design
 Node.js, Express.js  
 
 **Database:**  
-MongoDB  
+MongoDB,MySQL
 
 **Tools:**  
 Git, GitHub, Postman, VS Code  
